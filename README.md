@@ -13,7 +13,7 @@ Check out the repositories below for more details!
 
 ## 📫 How to reach me
 - 📧 Email: raahym.rehan.24@ucl.ac.uk
-- 💼 LinkedIn: https://www.linkedin.com/in/raahym-rehan-448149266/
+- 💼 LinkedIn: https://www.linkedin.com/in/raahymrehan
 
 Feel free to check out my projects, fork them, or contribute. Let's collaborate and create something awesome! 🚀
 
