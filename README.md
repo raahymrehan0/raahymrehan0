@@ -1,6 +1,6 @@
 # Hi there, I'm Raahym 👋
 
-Welcome to my GitHub profile! I'm a first-year BSc Computer Science student at University College London (UCL), passionate about problem-solving, artificial intelligence, and machine learning.
+Welcome to my GitHub profile! I'm a second-year BSc Computer Science student at University College London (UCL), passionate about problem-solving, artificial intelligence, and machine learning.
 
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Science** at **UCL**
