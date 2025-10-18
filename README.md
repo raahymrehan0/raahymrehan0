@@ -21,3 +21,5 @@ Feel free to check out my projects, fork them, or contribute. Let's collaborate 
 raahymrehan0/raahymrehan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Raahym's Metrics](./github-metrics.svg)
