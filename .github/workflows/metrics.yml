@@ -14,7 +14,7 @@ jobs:
           user: raahymrehan0
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Karachi
+          config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
