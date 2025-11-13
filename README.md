@@ -17,6 +17,11 @@ Check out the repositories below for more details!
 
 Feel free to check out my projects, fork them, or contribute. Let's collaborate and create something awesome! 🚀
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+
 <!---
 raahymrehan0/raahymrehan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
